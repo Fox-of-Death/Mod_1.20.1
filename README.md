@@ -1,9 +1,10 @@
 ## Mod_1.20.1
 ### OptiFine
 สำหรับคนที่ต้องการเล่น OptiFine สามารถโหลดได้เลย  
-mods > ไฟล์OptiFine
+นำไฟล์OptiFineไว้ในmods
 
 ### Mod List
+ไฟล์ทั้งหมด 200 MB+
 |ลำดับ|รายละเอียด|
 |:-:|-|
 |	1	|	alexsmobs-1.22.7.jar	|
