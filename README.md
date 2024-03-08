@@ -4,7 +4,7 @@
 mods > ไฟล์OptiFine
 
 ### Mod List
-|ลำดับ|รายละเเอียด|
+|ลำดับ|รายละเอียด|
 |:-:|-|
 |	1	|	alexsmobs-1.22.7.jar	|
 |	2	|	another_furniture-forge-1.20.1-3.0.1.jar	|
