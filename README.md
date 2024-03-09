@@ -6,7 +6,7 @@
 ### Mod List
 |ลำดับ|รายละเอียด|
 |:-:|-|
-|1|	alexsmobs-1.22.7.jar	|
+|	1	|	alexsmobs-1.22.7.jar	|
 |	2	|	another_furniture-forge-1.20.1-3.0.1.jar	|
 |	3	|	appleskin-forge-mc1.20.1-2.5.1.jar	|
 |	4	|	appliedenergistics2-forge-15.0.21.jar	|
@@ -103,5 +103,3 @@
 |	95	|	YungsBetterWitchHuts-1.20-Forge-3.0.3.jar	|
 |	96	|	YungsBridges-1.20-Forge-4.0.3.jar	|
 |	97	|	YungsExtras-1.20-Forge-4.0.3.jar	|
-![image](https://github.com/Fox-of-Death/Mod_1.20.1/assets/81943754/d1a37aae-bde6-4351-a8d1-699398bef947)
-
