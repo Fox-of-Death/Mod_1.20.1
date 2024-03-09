@@ -6,7 +6,7 @@
 ### Mod List
 |ลำดับ|รายละเอียด|
 |:-:|-|
-|	1	|	alexsmobs-1.22.7.jar	|
+|1|	alexsmobs-1.22.7.jar	|
 |	2	|	another_furniture-forge-1.20.1-3.0.1.jar	|
 |	3	|	appleskin-forge-mc1.20.1-2.5.1.jar	|
 |	4	|	appliedenergistics2-forge-15.0.21.jar	|
