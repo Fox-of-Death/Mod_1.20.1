@@ -1,6 +1,7 @@
 ## Mod_1.20.1
 ### OptiFine
-สำหรับคนที่ต้องการเล่น OptiFine สามารถโหลดได้เลย  
+https://optifine.net/downloadx?f=OptiFine_1.20.1_HD_U_I6.jar&x=64f38e05989620a630a2a3c034f88bd2  
+สำหรับคนที่ต้องการเล่น OptiFine สามารถโหลดจากลื้งค์ได้  
 นำไฟล์OptiFineไว้ในmods
 
 ### Mod List
