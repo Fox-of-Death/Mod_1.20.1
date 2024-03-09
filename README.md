@@ -4,6 +4,10 @@ https://optifine.net/downloadx?f=OptiFine_1.20.1_HD_U_I6.jar&x=64f38e05989620a63
 สำหรับคนที่ต้องการเล่น OptiFine สามารถโหลดจากลื้งค์ได้  
 นำไฟล์OptiFineไว้ในmods
 
+### Shader
+https://www.curseforge.com/minecraft/shaders/complementary-unbound  
+นำ ไฟล์.zip ไปใส่ใน shaderpacks
+
 ### Mod List
 |ลำดับ|รายละเอียด|
 |:-:|-|
