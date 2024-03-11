@@ -1,4 +1,3 @@
-![image](https://github.com/Fox-of-Death/Mod_1.20.1/assets/81943754/2b6621d7-66db-4995-86e0-e80e361670c8)## Mod_1.20.1
 ### OptiFine  
 (อยู่ใน Mods ที่ให้แล้วสามารถโหลดได้ถ้าเกิดปัญหา)  
 [https://optifine.net](https://optifine.net/downloads)  
